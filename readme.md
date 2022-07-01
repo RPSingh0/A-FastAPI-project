@@ -72,3 +72,4 @@ User can filter the data by providing the following parameters:
 
 
 ### For working, please refer to the screenshots attached below.
+![Swagger UI](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/swaggerUI.png)
