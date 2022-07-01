@@ -19,9 +19,6 @@
 
 ```
     Trading
-    |   .gitignore
-    |    readme.md
-    |    requirement.txt
     |
     |____repository
     |       trade_functions.py
@@ -35,6 +32,17 @@
     |____models.py
     |____schemas.py
     |____trading_db.db
+    |
+    working_ss
+    |
+    |____all screenshots (png files)
+    |
+    .gitignore
+    |
+    readme.md
+    |
+    requirements.txt
+
 ```
 
 ### A single trade
@@ -72,4 +80,35 @@ User can filter the data by providing the following parameters:
 
 
 ### For working, please refer to the screenshots attached below.
+
+### Swagger UI
+
 ![Swagger UI](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/swaggerUI.png)
+
+### Greet/Landing page
+
+![Greet](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/greet.png)
+
+### All Trades
+
+![All Trades](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/all_trade_price_sorted.png)
+
+### Trades by ID
+
+![Trade by ID](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_by_id.png)
+
+### Trades by ID (if not found)
+
+![Trade by ID](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_with_id_not_found.png)
+
+### Trades by search
+
+![Trade by Search](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_with_search.png)
+
+### Trade with filter
+
+![Trade with filter](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_filter.png)
+
+### Trade with multiple filters
+
+![Trade with multiple filters](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_filter_multiple_params.png)
