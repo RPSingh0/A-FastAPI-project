@@ -110,5 +110,3 @@ User can filter the data by providing the following parameters:
 ### Trade with multiple filters
 
 ![Trade with multiple filters](https://github.com/RPSingh0/SteelEyeAssignment/blob/master/working_ss/trade_filter_multiple_params.png)
-
-It was a nice assignment, really learnt a lot from this 😊.
