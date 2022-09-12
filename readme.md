@@ -1,5 +1,3 @@
-# SteelEye API Developer Assignment
-
 ### Made with FastAPI, a web framework for building APIs with python
 
 ### Following endpoints are provided in the API
